@@ -1,0 +1,58 @@
+h1 {
+    color: black;
+    text-transform: capitalize;
+
+}
+
+body {
+    background-color: seagreen;
+
+}
+
+.texto1{
+    color: darkgrey;
+    font-style: italic;
+    text-transform: capitalize;
+}
+
+
+.p1 {
+    color:darkkhaki;
+    text-transform: capitalize;
+    
+}
+
+.p2 {
+    color: darkslateblue;
+    font-style: inherit;
+    text-transform: capitalize;
+}
+
+.p3 {
+    color:  white;
+    font-style: unset;
+    text-transform: capitalize;
+}
+
+.p4{
+    color: yellow;
+    font-style: oblique;
+    text-transform: capitalize;
+}
+
+.p5{
+    color: tomato;
+    font-style: normal;
+    text-transform: capitalize;
+}
+
+.p6{
+    color: violet;
+    font-family: cursive;
+    text-transform: capitalize;
+}
+.p7{
+    color: thistle;
+    font-family: monospace;
+    text-transform: capitalize;
+}

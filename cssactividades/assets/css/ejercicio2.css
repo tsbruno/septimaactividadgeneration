@@ -1,0 +1,32 @@
+body {
+    background-color: lightblue;
+}
+
+.aling{
+    text-align: right;
+    color: lightcoral;
+}
+
+.col{
+    color: white;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.col1 {
+    color: green;
+    background-color: lightcyan;
+    
+}
+
+.textojjj {
+
+    color: lightcoral;
+    background-color: limegreen;
+
+}
+
+.nuev1{
+    color: mediumpurple;
+    background-color: midnightblue;
+}
